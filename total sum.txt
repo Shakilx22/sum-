@@ -1,0 +1,1 @@
+print("Total number of Id is: ", sum(id))
